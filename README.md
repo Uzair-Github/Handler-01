@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Handler-01
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate to anyone.
+- 👋 Hi, Welcome to @Uzair-Github
+- 👀 I’m learning Python
 - 📫 How to reach me: Comment below!
 
 <!---
